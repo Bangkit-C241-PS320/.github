@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Bangkit C241-PS320
 this is our Bangkit Capstone Repository for our projects.
 
